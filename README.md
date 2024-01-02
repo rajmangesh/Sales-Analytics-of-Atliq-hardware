@@ -5,6 +5,6 @@
 Data Cleaning
 The dataset cleaning process involved:
 
-Handling missing values.
-Ensuring data consistency and accuracy.
-Cleaning outliers and anomalies.
+#Handling missing values.
+#Ensuring data consistency and accuracy.
+#Cleaning outliers and anomalies.
