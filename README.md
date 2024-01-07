@@ -24,4 +24,4 @@
 - Profit margin percentage has remained relatively stable over time, varying between 1.3% to 3.3%.
 - The target profit margin is -3%, significantly below the current profit margin level, indicating potential need to reduce costs or increase efficiency.
 
-[Powerbi Report]: (https://app.powerbi.com/links/qcjpjdHFOO?ctid=0acca485-0732-47a2-926e-8af9c3c61a0b&pbi_source=linkShare)
+[Powerbi Report]: https://app.powerbi.com/links/qcjpjdHFOO?ctid=0acca485-0732-47a2-926e-8af9c3c61a0b&pbi_source=linkShare
