@@ -1,6 +1,7 @@
 # Sales-Analytics-of-Atliq-hardware
 
-![Screenshot 2024-01-02 133931](https://github.com/rajmangesh/Sales-Analytics-of-Atliq-hardware/assets/95671470/a8320c1f-c3d3-4e97-9734-10843ea883f5)
+![Screenshot 2024-01-17 134623](https://github.com/rajmangesh/Sales-Analytics-of-Atliq-hardware/assets/95671470/d94ed663-1685-4fb4-847e-1986d86223a1)
+
 
 ## Key Features
 
